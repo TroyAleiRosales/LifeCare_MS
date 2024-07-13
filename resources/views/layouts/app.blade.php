@@ -133,7 +133,7 @@
                                 aria-hidden="true"></i>{{ $settings["address"] ?? 'distric abc P/O xyz sorana' }}
                         </p>
                         <p><i class="fa fa-paper-plane"
-                                aria-hidden="true"></i>{{ $settings["email"] ?? 'tauseed@test.com' }}
+                                aria-hidden="true"></i>{{ $settings["email"] ?? 'email@test.com' }}
                         </p>
                         <p><i class="fa fa-phone"
                                 aria-hidden="true"></i>{{ $settings["phone"] ?? '123 123 123' }}</p>
